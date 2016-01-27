@@ -1,4 +1,1 @@
-This is your new Play application
-=================================
-
-This file will be packaged with your application, when using `activator dist`.
+This is a Play application that acts as a REST Service to return similarity distances between two strings
